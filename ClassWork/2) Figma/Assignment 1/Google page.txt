@@ -1,0 +1,6 @@
+https://www.figma.com/file/Pl8oUK2w07HFCQz296O69Y/Untitled?type=design&node-id=7-2&mode=design&t=kI4s3otbT2E0IKep-0
+
+
+Pesticides extension for checking the box sizes
+Ruler extension for checking the height width
+whatFont extension to check the font
